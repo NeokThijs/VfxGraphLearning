@@ -431,9 +431,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4692297788018348376, guid: 1962d5b62995639439d6e37129b5ee7e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4692297788018348376, guid: 1962d5b62995639439d6e37129b5ee7e, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9007733279628760598, guid: 1962d5b62995639439d6e37129b5ee7e, type: 3}
       propertyPath: m_Name
       value: Beam
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007733279628760598, guid: 1962d5b62995639439d6e37129b5ee7e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -448,9 +460,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 564862844372318064, guid: 35125643f8771fb438e98f938422c3e3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1659123927113409994, guid: 35125643f8771fb438e98f938422c3e3, type: 3}
       propertyPath: m_Name
       value: BloodSpatter
+      objectReference: {fileID: 0}
+    - target: {fileID: 1659123927113409994, guid: 35125643f8771fb438e98f938422c3e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8125165392092316837, guid: 35125643f8771fb438e98f938422c3e3, type: 3}
       propertyPath: m_LocalPosition.x
