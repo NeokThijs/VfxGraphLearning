@@ -615,6 +615,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Watercube
       objectReference: {fileID: 0}
+    - target: {fileID: 4760667623507365129, guid: 423c43e3f266a1645ad2cacd6c2a6089, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
